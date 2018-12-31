@@ -2,6 +2,14 @@
 
 This python project reads the button press from Silicon Labs Thunderboard REACT.
 
+# Recipe
+
+* build-essentials
+* python-dev
+* python-pip
+* bluez
+* bluez-hcidump
+
 ## Button press
 
 * none value 00
