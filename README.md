@@ -1,6 +1,6 @@
 # thunderboard-btn
 
-This python project reads the button press from Silicon Labs Thunderboard REACT.
+This python project reads the button press from a Silicon Labs Thunderboard REACT.
 
 # Recipe
 
