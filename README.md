@@ -2,7 +2,7 @@
 
 This python project reads the button press from a Silicon Labs Thunderboard REACT.
 
-# Recipe
+# Prerequisite
 
 * build-essentials
 * python-dev
