@@ -17,7 +17,7 @@ sudo hcitool lescan
 Look for Thunder REACT #
 Copy mac address
 
-Change the mac address in example.py
+Change the mac address on line 5 in the example.py file
 
 ## Run
 
@@ -30,4 +30,4 @@ python example.py
 * SW-1 value 04
 * Both value 05
 
-To read the temperature instead of button push change char-read-hnd to 0x002e
+To read the temperature instead of button push on line 20 change char-read-hnd to 0x002e
