@@ -13,11 +13,10 @@ This python project reads the button press from a Silicon Labs Thunderboard REAC
 
 ## Setup
 
-sudo hcitool lescan
-Look for Thunder REACT #
-Copy mac address
-
-Change the mac address on line 5 in the example.py file
+1. `sudo hcitool lescan`
+1. Look for Thunder REACT #
+1. Copy mac address
+1. Change the mac address on line 5 in the example.py file
 
 ## Run
 
