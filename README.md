@@ -14,7 +14,7 @@ This python project reads the button press from a Silicon Labs Thunderboard REAC
 ## Setup
 
 sudo hcitool lescan
-Look for Thunder Sense #
+Look for Thunder REACT #
 Copy mac address
 
 Change DEVICE = "00:0B:57:51:A7:61" in example.py
