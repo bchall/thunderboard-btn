@@ -13,6 +13,6 @@ child.expect("Connection successful", timeout=5)
  
 while True:
      child.sendline("char-read-hnd 0x0022")
-     child.expect("Characteristic value/descriptor: ", timeout=30)
+     child.expect("Characteristic value/descriptor: ", timeout=10)
      child.expect("\r\n", timeout=10)
      print(child.before)
