@@ -7,6 +7,7 @@ This python project reads the button press from a Silicon Labs Thunderboard REAC
 * build-essentials
 * python-dev
 * python-pip
+* python expect
 * bluez
 * bluez-hcidump
 
