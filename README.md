@@ -10,6 +10,19 @@ This python project reads the button press from a Silicon Labs Thunderboard REAC
 * bluez
 * bluez-hcidump
 
+## Setup
+
+sudo hcitool lescan
+Look for Thunder Sense #
+Copy mac address
+
+vi example.py
+Change DEVICE = "00:0B:57:51:A7:61"
+
+## Run
+
+python example.py
+
 ## Button press
 
 * none value 00
