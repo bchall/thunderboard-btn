@@ -17,8 +17,7 @@ sudo hcitool lescan
 Look for Thunder Sense #
 Copy mac address
 
-vi example.py
-Change DEVICE = "00:0B:57:51:A7:61"
+Change DEVICE = "00:0B:57:51:A7:61" in example.py
 
 ## Run
 
